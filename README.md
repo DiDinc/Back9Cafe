@@ -1,4 +1,4 @@
-PhoneGapBuildBase
+Back9Cafe
 =================
 
-A template for reUrgency PhoneGap Build Applications
+A PhoneGap Build Wrapper
