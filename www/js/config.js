@@ -8,21 +8,21 @@ const RemoteServerEnvironment = "Dev";
  * Remote URL Variables. One for each possible RemoteServerEnvironment value. Must Be named like
  * RemoteServerEnvironment + "_RemoteURL"
  */
-const Dev_RemoteURL = "http://www.google.com/";
-const Staging_RemoteURL = "http://www.facebook.com/";
-const Prod_RemoteURL = "http://www.reurgency.com/";
+const Dev_RemoteURL = "http://back9.dynamicinternetdevelopment.net/";
+const Staging_RemoteURL = "http://back9.dynamicinternetdevelopment.net/";
+const Prod_RemoteURL = "http://www.back9cafe.com/";
 //END REMOTE URL VARIABLES
 
 /**
  * The apps title. This will be injected into document.title
  * @type {string}
  */
-const AppTitle = "reUrgency Base PhoneGap Build App";
+const AppTitle = "Back 9 Cafe Base";
 /**
  * The Title in the config block. Typically the company name
  * @type {string}
  */
-const ConfigTitle = "reUrgency";
+const ConfigTitle = "Back 9 Cafe";
 /**
  * The msg to display while we wait for PhoneGaps deviceready event
  * @type {string}
