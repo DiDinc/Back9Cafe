@@ -63,7 +63,7 @@ var app = {
     report: function(id) {
         // Report the event in the console
         console.log("Report: " + id);
-        alert("Report: " + id);
+        //alert("Report: " + id);
     },
     /**
      * Callback for when PhoneGap detects that the device is Online
@@ -108,7 +108,7 @@ var app = {
 };
 
 window.onerror=function(msg, url, linenumber){
-    alert('Error message: ' + msg + '\nURL: ' + url + '\nLine Number: ' + linenumber)
+    //alert('Error message: ' + msg + '\nURL: ' + url + '\nLine Number: ' + linenumber)
     console.log('Error message: ' + msg + '\nURL: ' + url + '\nLine Number: ' + linenumber);
     return true
 }
