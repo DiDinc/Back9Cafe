@@ -31,7 +31,7 @@ var app = {
         // This is an event handler function, which means the scope is the event.
         // So, we must explicitly called `app.report()` instead of `this.report()`.
         app.report('deviceready');
-        
+
         //Add listeners to detect if the App comes online or goes offline
         document.addEventListener("online", app.onAppIsOnline, false);
         document.addEventListener("offline", app.onAppIsOffline, false);
@@ -53,7 +53,7 @@ var app = {
         //Get the appropriate remote URL based on the RemoteServerEnvironment config constant & re-direct
         app.report('in accessRemoteSite function');
 		var remoteURL = eval(RemoteServerEnvironment+"_RemoteURL");
-		app.repot('remote url: '+remoteURL);
+		app.reprot('remote url: '+remoteURL);
 		document.location.href =  remoteURL;
 		app.report('accessRemoteSite');
     },
