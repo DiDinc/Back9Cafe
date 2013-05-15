@@ -31,7 +31,12 @@ var app = {
         // This is an event handler function, which means the scope is the event.
         // So, we must explicitly called `app.report()` instead of `this.report()`.
         app.report('deviceready');
-        
+        // Toggle the state from "pending" to "complete".
+        // Accomplished by adding .hide to the pending element and removing
+        // .hide from the complete element.
+        document.querySelector('#deviceready.pending').className += ' hide';
+        var completeElem = document.querySelector('#deviceready.complete');
+        completeElem.className = completeElem.className.split('hide').join('');
         //Add listeners to detect if the App comes online or goes offline
         document.addEventListener("online", app.onAppIsOnline, false);
         document.addEventListener("offline", app.onAppIsOffline, false);
