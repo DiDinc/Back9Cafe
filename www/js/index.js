@@ -56,7 +56,9 @@ var app = {
      */
     accessRemoteSite: function(){
         //Get the appropriate remote URL based on the RemoteServerEnvironment config constant & re-direct
-        document.location.href =  eval(RemoteServerEnvironment+"_RemoteURL");
+        var remoteURL = eval(RemoteServerEnvironment+"_RemoteURL");
+		app.repot('remote url: '+remoteURL);
+		document.location.href =  remoteURL;
 		app.report('accessRemoteSite');
     },
     /**
@@ -108,3 +110,9 @@ var app = {
 		//alert('added device ready listener');
     }
 };
+
+window.onerror=function(msg, url, linenumber){
+    alert('Error message: ' + msg + '\nURL: ' + url + '\nLine Number: ' + linenumber)
+    console.log('Error message: ' + msg + '\nURL: ' + url + '\nLine Number: ' + linenumber);
+    return true
+}
