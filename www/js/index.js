@@ -56,7 +56,7 @@ var app = {
      */
     accessRemoteSite: function(){
         //Get the appropriate remote URL based on the RemoteServerEnvironment config constant & re-direct
-        app.repot('in accessRemoteSite function');
+        app.report('in accessRemoteSite function');
 		var remoteURL = eval(RemoteServerEnvironment+"_RemoteURL");
 		app.repot('remote url: '+remoteURL);
 		document.location.href =  remoteURL;
