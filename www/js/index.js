@@ -31,12 +31,7 @@ var app = {
         // This is an event handler function, which means the scope is the event.
         // So, we must explicitly called `app.report()` instead of `this.report()`.
         app.report('deviceready');
-        // Toggle the state from "pending" to "complete".
-        // Accomplished by adding .hide to the pending element and removing
-        // .hide from the complete element.
-        document.querySelector('#' + id + ' .pending').className += ' hide';
-        var completeElem = document.querySelector('#' + id + ' .complete');
-        completeElem.className = completeElem.className.split('hide').join('');
+        
         //Add listeners to detect if the App comes online or goes offline
         document.addEventListener("online", app.onAppIsOnline, false);
         document.addEventListener("offline", app.onAppIsOffline, false);
@@ -56,7 +51,8 @@ var app = {
      */
     accessRemoteSite: function(){
         //Get the appropriate remote URL based on the RemoteServerEnvironment config constant & re-direct
-        var remoteURL = eval(RemoteServerEnvironment+"_RemoteURL");
+        app.repot('in accessRemoteSite function');
+		var remoteURL = eval(RemoteServerEnvironment+"_RemoteURL");
 		app.repot('remote url: '+remoteURL);
 		document.location.href =  remoteURL;
 		app.report('accessRemoteSite');
