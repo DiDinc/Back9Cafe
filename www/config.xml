@@ -110,7 +110,6 @@
     <access origin="http://back9.dynamicinternetdevelopment.net*"/>
     <access origin="http://back9cafe.com*" subdomains="true"/>
     <access origin="http://debug.phonegap.com*" subdomains="true"/>
-    <access origin="https://ajax.googleapis.coms*" subdomains="true"/>
     <access origin="http://api.twitter.com*" subdomains="true"/>
     
     
