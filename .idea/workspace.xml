@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0de0cbe4-397c-491e-9866-6aebb945057b" name="Default" comment="test branch by changing remote URL's">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/config.js" afterPath="$PROJECT_DIR$/www/js/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PhoneGapBuildBase.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369243501795" ignored="false" />
+    <file path="/Dummy.txt" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369249729523" ignored="false" />
     <file path="/config.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1367847721064" ignored="false" />
     <file path="/index.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1367848210261" ignored="false" />
     <file path="/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369019137584" ignored="false" />
-    <file path="/config.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369018793688" ignored="false" />
+    <file path="/config.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369249791667" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369019137584" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,19 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="59" selection-start="386" selection-end="386" vertical-scroll-proportion="0.20547946">
+            <state line="10" column="59" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="0" selection-start="7779" selection-end="7779" vertical-scroll-proportion="0.0">
+            <state line="109" column="58" selection-start="7967" selection-end="7967" vertical-scroll-proportion="0.60251045">
               <folding />
             </state>
           </provider>
@@ -88,8 +88,8 @@
       <list>
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/index.js" />
-        <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/www/js/config.js" />
+        <option value="$PROJECT_DIR$/www/config.xml" />
       </list>
     </option>
   </component>
@@ -125,6 +125,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -177,7 +178,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,8 +186,8 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -447,16 +447,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
+    <entry file="file://$PROJECT_DIR$/www/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="0" selection-start="7779" selection-end="7779" vertical-scroll-proportion="0.0">
+        <state line="10" column="59" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/config.js">
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="59" selection-start="386" selection-end="386" vertical-scroll-proportion="0.20547946">
+        <state line="109" column="58" selection-start="7967" selection-end="7967" vertical-scroll-proportion="0.60251045">
           <folding />
         </state>
       </provider>
