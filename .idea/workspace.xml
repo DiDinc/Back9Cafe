@@ -7,7 +7,7 @@
     </list>
     <ignored path="PhoneGapBuildBase.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369249729523" ignored="false" />
+    <file path="/Dummy.txt" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369256511370" ignored="false" />
     <file path="/config.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1367847721064" ignored="false" />
     <file path="/index.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1367848210261" ignored="false" />
     <file path="/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369019137584" ignored="false" />
@@ -53,7 +53,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="58" selection-start="7967" selection-end="7967" vertical-scroll-proportion="0.60251045">
+            <state line="109" column="38" selection-start="7947" selection-end="7947" vertical-scroll-proportion="0.60251045">
               <folding />
             </state>
           </provider>
@@ -125,7 +125,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -178,6 +177,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,8 +186,8 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -456,7 +456,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="58" selection-start="7967" selection-end="7967" vertical-scroll-proportion="0.60251045">
+        <state line="109" column="38" selection-start="7947" selection-end="7947" vertical-scroll-proportion="0.60251045">
           <folding />
         </state>
       </provider>
