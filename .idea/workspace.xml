@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0de0cbe4-397c-491e-9866-6aebb945057b" name="Default" comment="test branch by changing remote URL's">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/config.js" afterPath="$PROJECT_DIR$/www/js/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
     </list>
     <ignored path="PhoneGapBuildBase.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,19 +44,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="40" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
+            <state line="11" column="75" selection-start="468" selection-end="468" vertical-scroll-proportion="0.52884614">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="60" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.8026756">
+            <state line="32" column="73" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -92,8 +91,8 @@
       <list>
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/index.js" />
-        <option value="$PROJECT_DIR$/www/js/config.js" />
         <option value="$PROJECT_DIR$/www/config.xml" />
+        <option value="$PROJECT_DIR$/www/js/config.js" />
       </list>
     </option>
   </component>
@@ -451,16 +450,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/config.js">
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
+        <state line="32" column="73" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
+    <entry file="file://$PROJECT_DIR$/www/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="60" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.8026756">
+        <state line="11" column="75" selection-start="468" selection-end="468" vertical-scroll-proportion="0.52884614">
           <folding />
         </state>
       </provider>

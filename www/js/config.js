@@ -9,7 +9,7 @@ const RemoteServerEnvironment = "Staging";
  * RemoteServerEnvironment + "_RemoteURL"
  */
 const Dev_RemoteURL = "http://back9.dev.192.168.1.13.xip.io";
-const Staging_RemoteURL = "http://back9.dynamicinternetdevelopment.net/";
+const Staging_RemoteURL = "http://back9.dynamicinternetdevelopment.net/app/";
 const Prod_RemoteURL = "http://www.back9cafe.com/";
 //END REMOTE URL VARIABLES
 
