@@ -9,12 +9,13 @@
     <file path="/Dummy.txt" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369256511370" ignored="false" />
     <file path="/config.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1367847721064" ignored="false" />
     <file path="/index.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1367848210261" ignored="false" />
-    <file path="/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369273750920" ignored="false" />
-    <file path="/config.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369249791667" ignored="false" />
+    <file path="/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369309442947" ignored="false" />
+    <file path="/config.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369309879558" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369019137584" ignored="false" />
-    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369273754002" ignored="false" />
-    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/css/SliderStyles.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369273891874" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369309673368" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/css/SliderStyles.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369308818131" ignored="false" />
     <file path="/SliderStyles.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369273846995" ignored="false" />
+    <file path="$USER_HOME$/Downloads/swipe.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369309336668" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="24" selection-start="8197" selection-end="8197" vertical-scroll-proportion="0.64214045">
+            <state line="113" column="39" selection-start="8235" selection-end="8235" vertical-scroll-proportion="0.4916388">
               <folding />
             </state>
           </provider>
@@ -458,7 +459,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="24" selection-start="8197" selection-end="8197" vertical-scroll-proportion="0.64214045">
+        <state line="113" column="39" selection-start="8235" selection-end="8235" vertical-scroll-proportion="0.4916388">
           <folding />
         </state>
       </provider>
