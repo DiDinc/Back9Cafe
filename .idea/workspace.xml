@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0de0cbe4-397c-491e-9866-6aebb945057b" name="Default" comment="test branch by changing remote URL's">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/config.js" afterPath="$PROJECT_DIR$/www/js/config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
     </list>
     <ignored path="PhoneGapBuildBase.iws" />
@@ -10,7 +11,7 @@
     <file path="/config.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1367847721064" ignored="false" />
     <file path="/index.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1367848210261" ignored="false" />
     <file path="/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369309442947" ignored="false" />
-    <file path="/config.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369309879558" ignored="false" />
+    <file path="/config.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369327594307" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369019137584" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369309673368" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/css/SliderStyles.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369308818131" ignored="false" />
@@ -47,7 +48,7 @@
       <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="23" selection-start="350" selection-end="386" vertical-scroll-proportion="0.0">
+            <state line="4" column="40" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -56,7 +57,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="50" selection-start="8157" selection-end="8157" vertical-scroll-proportion="0.548495">
+            <state line="33" column="60" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.8026756">
               <folding />
             </state>
           </provider>
@@ -452,14 +453,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="23" selection-start="350" selection-end="386" vertical-scroll-proportion="0.0">
+        <state line="4" column="40" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="50" selection-start="8157" selection-end="8157" vertical-scroll-proportion="0.548495">
+        <state line="33" column="60" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.8026756">
           <folding />
         </state>
       </provider>
