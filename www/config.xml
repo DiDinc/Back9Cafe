@@ -107,12 +107,11 @@
         Otherwise, you can specify specific domains:
     -->
     <access origin="http://127.0.0.1*"/> <!-- allow local pages -->
-    <access origin="http://back9.dev.*"/>
     <access origin="http://back9.dynamicinternetdevelopment.net*"/>
     <access origin="http://back9cafe.com*" subdomains="true"/>
     <access origin="http://debug.phonegap.com*" subdomains="true"/>
     <access origin="http://api.twitter.com*" subdomains="true"/>
-    
+    <access origin="*"/>
     
   <!--
         <access origin="http://phonegap.com" />                    - allow any secure requests to http://honegap.com/
