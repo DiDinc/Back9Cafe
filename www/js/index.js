@@ -56,6 +56,7 @@ var app = {
 		app.report('remote url: '+remoteURL);
 		document.location.href =  remoteURL;
 		app.report('accessRemoteSite');
+        navigator.splashscreen.hide();
     },
     /**
      * A generic logging function

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0de0cbe4-397c-491e-9866-6aebb945057b" name="Default" comment="test branch by changing remote URL's">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/config.js" afterPath="$PROJECT_DIR$/www/js/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
     </list>
     <ignored path="PhoneGapBuildBase.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,7 +21,7 @@
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/js/app.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369355887199" ignored="false" />
     <file path="/app.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369335543679" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/Home/Home.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369337461953" ignored="false" />
-    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/.idea/workspace.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369368101003" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/.idea/workspace.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369368308965" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/css/Project.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369359326016" ignored="false" />
     <file path="/Project.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369359320211" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/Header/header.tpl.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369361606955" ignored="false" />
@@ -48,19 +48,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="6" selection-start="2580" selection-end="2584" vertical-scroll-proportion="0.0">
+            <state line="58" column="38" selection-start="2409" selection-end="2409" vertical-scroll-proportion="0.18961865">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="76" selection-start="403" selection-end="403" vertical-scroll-proportion="0.06355932">
+            <state line="10" column="76" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -103,9 +103,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/www/js/config.js" />
+        <option value="$PROJECT_DIR$/www/js/index.js" />
       </list>
     </option>
   </component>
@@ -430,13 +430,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.7882535" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="6" selection-start="2580" selection-end="2584" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="43" selection-start="1974" selection-end="2009" vertical-scroll-proportion="0.0">
@@ -453,7 +446,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="76" selection-start="403" selection-end="403" vertical-scroll-proportion="0.06355932">
+        <state line="10" column="76" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="38" selection-start="2409" selection-end="2409" vertical-scroll-proportion="0.18961865">
           <folding />
         </state>
       </provider>
