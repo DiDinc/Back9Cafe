@@ -6,21 +6,29 @@
     </list>
     <ignored path="PhoneGapBuildBase.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369333458095" ignored="false" />
+    <file path="/Dummy.txt" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369336129806" ignored="false" />
     <file path="/config.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1367847721064" ignored="false" />
     <file path="/index.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1367848210261" ignored="false" />
-    <file path="/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369332844697" ignored="false" />
+    <file path="/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369361785339" ignored="false" />
     <file path="/config.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369327594307" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369019137584" ignored="false" />
-    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369335450788" ignored="false" />
-    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/css/SliderStyles.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369308818131" ignored="false" />
-    <file path="/SliderStyles.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369273846995" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/index.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369361840864" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/css/SliderStyles.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369358934499" ignored="false" />
+    <file path="/SliderStyles.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369358933121" ignored="false" />
     <file path="$USER_HOME$/Downloads/swipe.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369309336668" ignored="false" />
-    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/js/PhonegapConfig.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369333262292" ignored="false" />
-    <file path="/PhonegapConfig.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369333261852" ignored="false" />
-    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/js/app.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369335560631" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/js/PhonegapConfig.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369357059669" ignored="false" />
+    <file path="/PhonegapConfig.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369356606744" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/js/app.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369355887199" ignored="false" />
     <file path="/app.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369335543679" ignored="false" />
-    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/Home/Home.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369335596306" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/Home/Home.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369337461953" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/.idea/workspace.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369367128384" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/css/Project.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369359326016" ignored="false" />
+    <file path="/Project.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369359320211" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/Header/header.tpl.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369361606955" ignored="false" />
+    <file path="/header.tpl.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369360120636" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/css/snap.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369361156680" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/css/demo.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369361438649" ignored="false" />
+    <file path="/demo.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369361357616" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +60,7 @@
       <file leaf-file-name="config.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="70" selection-start="463" selection-end="463" vertical-scroll-proportion="0.17478813">
+            <state line="4" column="36" selection-start="176" selection-end="176" vertical-scroll-proportion="-0.03177966">
               <folding />
             </state>
           </provider>
@@ -445,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="70" selection-start="463" selection-end="463" vertical-scroll-proportion="0.17478813">
+        <state line="4" column="36" selection-start="176" selection-end="176" vertical-scroll-proportion="-0.03177966">
           <folding />
         </state>
       </provider>

@@ -2,13 +2,13 @@
  * Environment variable for the remote server. This is used to select the appropriate remote URL
  * @type {string} Environment Name
  */
-const RemoteServerEnvironment = "Staging";
+const RemoteServerEnvironment = "Dev";
 
 /**
  * Remote URL Variables. One for each possible RemoteServerEnvironment value. Must Be named like
  * RemoteServerEnvironment + "_RemoteURL"
  */
-const Dev_RemoteURL = "http://back9.dev.192.168.1.13.xip.io";
+const Dev_RemoteURL = "http://reurgency.dynamicinternetdevelopment.net/";
 const Staging_RemoteURL = "http://back9.dynamicinternetdevelopment.net/";
 const Prod_RemoteURL = "http://www.back9cafe.com/";
 //END REMOTE URL VARIABLES
