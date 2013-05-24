@@ -21,7 +21,7 @@
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/js/app.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369355887199" ignored="false" />
     <file path="/app.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369335543679" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/Home/Home.js" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369337461953" ignored="false" />
-    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/.idea/workspace.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369367128384" ignored="false" />
+    <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/.idea/workspace.xml" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369368101003" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/css/Project.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369359326016" ignored="false" />
     <file path="/Project.css" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369359320211" ignored="false" />
     <file path="$PROJECT_DIR$/../Clients/Back9Cafe/Mobile App 2/app/Header/header.tpl.html" changelist="0de0cbe4-397c-491e-9866-6aebb945057b" time="1369361606955" ignored="false" />
@@ -60,7 +60,7 @@
       <file leaf-file-name="config.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="36" selection-start="176" selection-end="176" vertical-scroll-proportion="-0.03177966">
+            <state line="10" column="76" selection-start="403" selection-end="403" vertical-scroll-proportion="0.06355932">
               <folding />
             </state>
           </provider>
@@ -453,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="36" selection-start="176" selection-end="176" vertical-scroll-proportion="-0.03177966">
+        <state line="10" column="76" selection-start="403" selection-end="403" vertical-scroll-proportion="0.06355932">
           <folding />
         </state>
       </provider>

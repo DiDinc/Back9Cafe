@@ -8,7 +8,7 @@ const RemoteServerEnvironment = "Dev";
  * Remote URL Variables. One for each possible RemoteServerEnvironment value. Must Be named like
  * RemoteServerEnvironment + "_RemoteURL"
  */
-const Dev_RemoteURL = "http://reurgency.dynamicinternetdevelopment.net/";
+const Dev_RemoteURL = "http://reurgency.dynamicinternetdevelopment.net/blog/";
 const Staging_RemoteURL = "http://back9.dynamicinternetdevelopment.net/";
 const Prod_RemoteURL = "http://www.back9cafe.com/";
 //END REMOTE URL VARIABLES
